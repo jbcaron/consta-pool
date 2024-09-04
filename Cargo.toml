@@ -1,0 +1,12 @@
+[package]
+name = "consta-pool"
+authors = ["Charpa"]
+description = "A library implementing a constant product liquidity pool (a * b = k)."
+license = "MIT"
+repository = "https://github.com/jbcaron/consta-pool"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+thiserror = "1.0"
